@@ -16,9 +16,9 @@ The official homepage of the project is
 
 You can clone from the official osmo-sim-auth.git repository using
 
-	git clone git://git.osmocom.org/osmo-sim-auth.git
+	git clone https://gitea.osmocom.org/sim-card/osmo-sim-auth
 
-There is a cgit interface at <http://git.osmocom.org/osmo-sim-auth/>
+There is a web interface at <https://gitea.osmocom.org/sim-card/osmo-sim-auth>
 
 ## Mailing List
 
